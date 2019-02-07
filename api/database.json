@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Overpriced Bean Water"
+    },
+    {
+      "id": 2,
+      "name": "Overpriced Non-Bean Water"
+    },
+    {
+      "id": 3,
+      "name": "Overpriced Vegan Water "
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "size": "Mini"
+    },
+    {
+      "id": 2,
+      "size": "Small"
+    },
+    {
+      "id": 3,
+      "size": "OverSized Small"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "Trevan",
+      "quantity": 2,
+      "productId": 1,
+      "sizeId": 1
+    },
+    {
+      "customerName": "Niall",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "1",
+      "sizeId": "OverSized Small",
+      "id": 2
+    },
+    {
+      "customerName": "niall",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "1",
+      "sizeId": "Small",
+      "id": 3
+    },
+    {
+      "customerName": "niall",
+      "quantity": "Overpriced Bean Water",
+      "productId": "2",
+      "sizeId": "OverSized Small",
+      "id": 4
+    },
+    {
+      "customerName": "sbdvbdvbd",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "1",
+      "sizeId": "OverSized Small",
+      "id": 5
+    },
+    {
+      "customerName": "test",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "5",
+      "sizeId": "Small",
+      "id": 6
+    },
+    {
+      "customerName": "test",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "1",
+      "sizeId": "OverSized Small",
+      "id": 7
+    },
+    {
+      "customerName": "1",
+      "quantity": "Overpriced Vegan Water ",
+      "productId": "4",
+      "sizeId": "Small",
+      "id": 8
+    },
+    {
+      "customerName": "test",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 9
+    },
+    {
+      "customerName": "1",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 10
+    },
+    {
+      "customerName": "1",
+      "quantity": "Overpriced Bean Water",
+      "productId": "3",
+      "sizeId": "Mini",
+      "id": 11
+    },
+    {
+      "customerName": "1233r4r",
+      "quantity": "Overpriced Bean Water",
+      "productId": "232434",
+      "sizeId": "Mini",
+      "id": 12
+    },
+    {
+      "customerName": "dgnfn vdvm1",
+      "quantity": "Overpriced Bean Water",
+      "productId": "",
+      "sizeId": "Mini",
+      "id": 13
+    },
+    {
+      "customerName": "testwdkwe ",
+      "quantity": "Overpriced Bean Water",
+      "productId": "4554654",
+      "sizeId": "OverSized Small",
+      "id": 14
+    },
+    {
+      "customerName": "madi",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "OverSized Small",
+      "id": 15
+    },
+    {
+      "customerName": "niall",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 16
+    },
+    {
+      "customerName": "ted",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "1",
+      "sizeId": "Small",
+      "id": 17
+    },
+    {
+      "customerName": "test",
+      "quantity": "Overpriced Non-Bean Water",
+      "productId": "123434",
+      "sizeId": "Mini",
+      "id": 18
+    }
+  ]
+}
